@@ -1,9 +1,15 @@
 OUTPUT OF PROGRAM
+
 [ Whats the point of Start up Name Generator human can do better this is just for learning
+
 Where you grew up from?  NOTE: Do not share this say your friends data >>>>
+
 Himachal Pradesh
+
 What's your toy or friend name? NOTE: WHATEVER YOU HAVE JUST DO WRITE ANYTHING >>>>>
+
 Makwana priyank
+
 Your band name could be Himachal Pradesh Makwana priyank ]
 
 
